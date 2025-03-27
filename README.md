@@ -2,7 +2,7 @@
 
 ## 📌 This is my DevSecOps18 course repository at BIU. 👨🏻‍💻👨🏻‍🎓
 
-[Check Out My Python Branch](Python)
+[Check Out My Python Branch](BIU-DevSecOps18/Python)
 
 [Check Out My Flask Branch](Flask)
 
